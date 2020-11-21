@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Don\'t pick\'t up</string>
+    <string name="stop_text">アラーム解除中</string>
+    <string name="start_text">アラームセット中</string>
+</resources>

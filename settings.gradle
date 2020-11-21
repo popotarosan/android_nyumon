@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Don't pick't up"
